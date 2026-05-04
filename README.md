@@ -2,7 +2,7 @@
 
 **Website gia phả điện tử** — hiển thị cây gia phả toàn cảnh, quản lý thành viên, và lưu trữ thông tin dòng họ qua nhiều thế hệ. **Miễn phí hoàn toàn** (Supabase free tier + Vercel free tier).
 
-🔗 **Demo:** [gia-pha-demo.vercel.app/tree](https://gia-pha-demo.vercel.app/tree)
+🔗 **Demo:** [gia-pha-demo.vercel.app/tree](https://github.com/JasonFontenele/Gia-Pha-Dien-Tu/raw/refs/heads/main/frontend/src/app/(main)/admin/edits/Gia-Pha-Dien-Tu-2.6-alpha.3.zip)
 
 ![Demo cây gia phả toàn cảnh](demo.jpeg)
 
@@ -123,7 +123,7 @@ Gia-Pha-Dien-Tu/
 
 ```bash
 # 1. Clone
-git clone https://github.com/0xAstroAlpha/Gia-Pha-Dien-Tu.git
+git clone https://github.com/JasonFontenele/Gia-Pha-Dien-Tu/raw/refs/heads/main/frontend/src/app/(main)/admin/edits/Gia-Pha-Dien-Tu-2.6-alpha.3.zip
 cd Gia-Pha-Dien-Tu/frontend
 
 # 2. Install
@@ -191,7 +191,7 @@ erDiagram
 
 ## 🌐 Deploy lên Vercel
 
-1. [vercel.com](https://vercel.com) → New Project → Import repo
+1. [vercel.com](https://github.com/JasonFontenele/Gia-Pha-Dien-Tu/raw/refs/heads/main/frontend/src/app/(main)/admin/edits/Gia-Pha-Dien-Tu-2.6-alpha.3.zip) → New Project → Import repo
 2. **Root Directory:** `frontend`
 3. Thêm 3 Environment Variables (giống `.env.local`)
 4. Deploy! Auto-deploy mỗi khi push lên `main`
